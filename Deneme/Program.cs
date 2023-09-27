@@ -1,2 +1,2 @@
-﻿Console.WriteLine("mehmet yigit"); 
+﻿Console.WriteLine("mehmet yigit2"); 
 Console.ReadKey();
